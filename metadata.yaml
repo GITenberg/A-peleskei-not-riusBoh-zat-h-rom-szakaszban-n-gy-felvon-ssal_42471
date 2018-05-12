@@ -1,0 +1,28 @@
+_repo: A-peleskei-not-riusBoh-zat-h-rom-szakaszban-n-gy-felvon-ssal_42471
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gaal, József
+    alias: Gaal, Jozsef
+    birthdate: 1811
+    deathdate: 1866
+    gutenberg_agent_id: '36059'
+    url: http://www.gutenberg.org/2009/agents/36059
+    wikipedia: http://hu.wikipedia.org/wiki/Gaal_J%C3%B3zsef
+description: ''
+gutenberg_issued: '2013-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42471'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian drama'
+- !lcc 'PH'
+title: 'A peleskei notárius: Bohózat három szakaszban négy felvonással'
+url: http://www.gutenberg.org/ebooks/42471
